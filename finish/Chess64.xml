@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess64.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess64.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>173</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Knight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>84</ymin>
+			<xmax>90</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess240.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess240.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>819</width>
+		<height>819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>192</ymin>
+			<xmax>609</xmax>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

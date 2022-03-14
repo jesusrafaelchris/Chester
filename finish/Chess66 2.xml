@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess66 2.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess66 2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>169</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Pawn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>101</ymin>
+			<xmax>75</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

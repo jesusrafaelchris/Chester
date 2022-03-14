@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess74 2.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess74 2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>169</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Queen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>84</ymin>
+			<xmax>113</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

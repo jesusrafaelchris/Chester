@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess6 2.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess6 2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>171</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Bishop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>54</ymin>
+			<xmax>121</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+</annotation>

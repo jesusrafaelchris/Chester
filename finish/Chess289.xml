@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess289.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess289.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>162</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Knight</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>81</ymin>
+			<xmax>162</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+</annotation>

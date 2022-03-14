@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess220.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess220.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>159</width>
+		<height>159</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red King</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>11</ymin>
+			<xmax>91</xmax>
+			<ymax>83</ymax>
+		</bndbox>
+	</object>
+</annotation>

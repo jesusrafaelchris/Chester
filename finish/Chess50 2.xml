@@ -1,0 +1,26 @@
+<annotation>
+	<folder>finish</folder>
+	<filename>Chess50 2.png</filename>
+	<path>/Users/christiangrinling/Desktop/finish/Chess50 2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>158</width>
+		<height>158</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Red Castle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>4</ymin>
+			<xmax>144</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+</annotation>
